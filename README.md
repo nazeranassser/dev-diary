@@ -1,10 +1,10 @@
 ## My Dev Dairy
-hello, I’m **Nazera Nasser** I’m a passionate web developer who loves creating websites and applications that solve real problems. I enjoy taking ideas and turning them into something people can interact with and use easily.
+hello, I’m **Nazera Nasser** I’m a passionate web developer who loves creating websites and applications that solve real problems.
 ## Developer Mindset
 
 To become a great software developer, it's not just about knowing code. Your mindset is just as important.
 
-### Key Points:
+### *Key Points:*
 
 - **Keep learning always**  
   Technology changes fast. I should never stop learning – books, tutorials, courses, or even from other developers.
@@ -50,3 +50,16 @@ To become a great software developer, it's not just about knowing code. Your min
 
 - **Automate boring stuff**  
   If I do the same thing over and over, I should try to write a script to do it for me.
+
+
+### Basic Terminal Commands
+- `pwd` – Show current directory
+- `ls` – List files and folders
+- `cd` – Change directory
+- `mkdir` – Create a new folder
+- `touch` – Create a new file
+- `rm` – Delete files or folders
+- `cp` – Copy files or folders
+- `mv` – Move or rename files or folders
+- `clear` – Clear the terminal screen
+
